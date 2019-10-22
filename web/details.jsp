@@ -101,7 +101,7 @@
                     {
                         for (String a:arr)
                         {
-                            System.out.println("第几条缓存:"+a);
+                            System.out.println("第"+a+"条缓存:");
                         }
                         if(arr.length>=1000)
                         {
